@@ -63,7 +63,7 @@ export class AIService {
         model: this.model,
         messages,
         temperature: 0.7,
-        maxOutputTokens: 1000,
+        maxOutputTokens: 400,
         tools: {
           url_context: vertex.tools.urlContext({}),
           google_search: vertex.tools.googleSearch({}),
