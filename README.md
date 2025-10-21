@@ -1,4 +1,6 @@
-# AI Discord Bot
+![threadly-logo](./src/assets/threadly_readme.png)
+
+# Threadly - Smart threads, smarter conversations
 
 A sophisticated Discord bot that creates threaded conversations with AI-powered responses using Google Vertex AI. The bot maintains persistent conversation context using SQLite storage and responds to mentions across any channel.
 
